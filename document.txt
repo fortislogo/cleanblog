@@ -1,0 +1,19 @@
+1. Downloaded the static html in https://github.com/BlackrockDigital/startbootstrap-clean-blog
+
+2. Create wordpress files to create custom theme
+   2.1 header.php
+   2.2 footer.php
+   2.3 style.css
+   2.4 functions.php
+   2.5 index.php
+   2.6 page.php
+
+3. Base on the static html, it is similar to existing wordpress themes "twentyseventeen". I copy most of the code from "twentyseventeen" to define the following task:
+   3.1 Setup the stylesheets of the site
+   3.2 Setup the javascripts of the site
+   3.3 Pagination
+   3.4 Navigation
+   3.5 Widgets
+
+4. Install Advanced Custom Fields to handle the subheader
+5. Install Contact Form 7 for the contact page form.
